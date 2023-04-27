@@ -1,2 +1,2 @@
-# Valores-AtIpicos
+# Valores-Atipicos
 Actividad 3.1
